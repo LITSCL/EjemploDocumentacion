@@ -1,0 +1,14 @@
+{
+  "name": "ejemplo-documentacion",
+  "version": "1.0.0",
+  "description": "Ejemplo de uso de la librería JSDoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "jsdoc": "^3.6.5"
+  }
+}
